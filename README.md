@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hi, I'm Austine.
+  Greetings, I'm Austine.
 
 
 ## 🌐 Socials:
