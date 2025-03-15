@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Greetings, I'm Austine.
+  Greetings, I'm AusLui.
 
 
 ## 🌐 Socials:
