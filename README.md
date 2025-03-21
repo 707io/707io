@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <em>"Hack the planet. Secure the future."</em>
+  <em>"Hack the planet."</em>
 </p>
 
 ---
