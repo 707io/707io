@@ -36,6 +36,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red%20Team-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=red)
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23E95420.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE-%23A91D22.svg?style=for-the-badge&logo=cve&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300ADD8.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Exploit Development](https://img.shields.io/badge/Exploit%20Development-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-%23800080.svg?style=for-the-badge&logo=intelligencex&logoColor=white)
@@ -45,6 +46,9 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231A1AFF.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%23000000.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![Social Engineering](https://img.shields.io/badge/Social%20Engineering-%23FF8C00.svg?style=for-the-badge&logo=socialblade&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-%2300A551.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-%2318141E.svg?style=for-the-badge&logo=hackerone&logoColor=white)
+
 
 ---
 
