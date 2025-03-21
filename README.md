@@ -15,28 +15,27 @@
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 💻 Programming Languages:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🛠 Development & Tools:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Red Team](https://img.shields.io/badge/Red%20Team-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=red)
+![Development](https://img.shields.io/badge/Development-%230098DB.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🏴‍☠️ Cybersecurity & Pentesting:
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23E95420.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![CVE](https://img.shields.io/badge/CVE-%23A91D22.svg?style=for-the-badge&logo=cve&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red%20Team-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300ADD8.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Exploit Development](https://img.shields.io/badge/Exploit%20Development-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-%23800080.svg?style=for-the-badge&logo=intelligencex&logoColor=white)
@@ -48,6 +47,20 @@
 ![Social Engineering](https://img.shields.io/badge/Social%20Engineering-%23FF8C00.svg?style=for-the-badge&logo=socialblade&logoColor=white)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-%2300A551.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-%2318141E.svg?style=for-the-badge&logo=hackerone&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE-%23A91D22.svg?style=for-the-badge&logo=cve&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%23FF4500.svg?style=for-the-badge&logo=wifi&logoColor=white)
+
+### 🖥️ Operating Systems:
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=blackarchlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-20C20E?style=for-the-badge&logo=parrotos&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 ---
