@@ -30,13 +30,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Pentesting-%23E95420.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red%20Team-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=red)
+![Pentesting](https://img.shields.io/badge/Pentesting-%23E95420.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300ADD8.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Exploit Development](https://img.shields.io/badge/Exploit%20Development-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-%23800080.svg?style=for-the-badge&logo=intelligencex&logoColor=white)
@@ -46,7 +45,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231A1AFF.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%23000000.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![Social Engineering](https://img.shields.io/badge/Social%20Engineering-%23FF8C00.svg?style=for-the-badge&logo=socialblade&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-%23FF5733.svg?style=for-the-badge&logo=mozilla&logoColor=white)
 
 ---
 
