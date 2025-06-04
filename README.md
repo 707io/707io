@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <em>"Hack the planet!"</em>
+  <em>"The quieter you become, the more you are able to hear."</em>
 </p>
 
 ---
