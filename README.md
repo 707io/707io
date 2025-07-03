@@ -1,10 +1,10 @@
-![Headmaster AusLui](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Headmaster 707](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Greetings, I'm AusLui.</h1>
+<h1 align="center">Greetings, I'm 707.</h1>
 <h3 align="center">I don’t chase attention, and I don’t offer explanations. My name is enough—anything more is irrelevant.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=auslui&label=Profile%20views&color=000000&style=flat" alt="auslui" />
+  <img src="https://komarev.com/ghpvc/?username=707io&label=Profile%20views&color=000000&style=flat" alt="707" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Tech Arsenal
+## 🚀 Tech Stacks
 
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -44,6 +44,7 @@
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-%2300A551.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-%2318141E.svg?style=for-the-badge&logo=hackerone&logoColor=white)
 
+
 ### 🖥️ Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-%23000000.svg?style=for-the-badge&logo=blackarchlinux&logoColor=white)
@@ -57,22 +58,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auslui&theme=dark&hide_border=false" alt="auslui Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=707io&theme=dark&hide_border=false" alt="707 Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auslui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=707io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auslui/auslui/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auslui/auslui/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/707io/707io/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/707io/707io/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/707io/707io/output/github-snake.svg" />
   </picture>
 </p>
 
 ---
 
 ### 📬 Contact
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100090014544294)
-[![Email](https://img.shields.io/badge/Email-auslui0617%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auslui0617@gmail.com)
+<p align="center">
+  <a href="mailto:707.gov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
