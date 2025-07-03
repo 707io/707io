@@ -41,8 +41,6 @@
 ![SQLmap](https://img.shields.io/badge/SQLmap-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23008080.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-%23800080.svg?style=for-the-badge&logo=intelligencex&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-%2300A551.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-%2318141E.svg?style=for-the-badge&logo=hackerone&logoColor=white)
 
 
 ### 🖥️ Operating Systems
