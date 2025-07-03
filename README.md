@@ -42,7 +42,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-%23008080.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-%23800080.svg?style=for-the-badge&logo=intelligencex&logoColor=white)
 
-
 ### 🖥️ Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-%23000000.svg?style=for-the-badge&logo=blackarchlinux&logoColor=white)
@@ -75,6 +74,9 @@
 ### 📬 Contact
 <p align="center">
   <a href="mailto:707.gov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/707io">
+    <img src="https://img.shields.io/badge/Discord-@707io-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
