@@ -1,7 +1,7 @@
 ![Headmaster 707](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Greetings, I'm 707.</h1>
-<h3 align="center">I don’t chase attention, and I don’t offer explanations. My name is enough—anything more is irrelevant.</h3>
+<h3 align="center">Too lazy to introduce myself—my name alone is enough. Everything else is irrelevant.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=707io&label=Profile%20views&color=000000&style=flat" alt="707" />
