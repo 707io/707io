@@ -4,8 +4,17 @@
 <h3 align="center">Too lazy to introduce myself—my name alone is enough. Everything else is irrelevant.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=707io&label=Profile%20views&color=000000&style=flat" alt="707" />
+  <img src="https://komarev.com/ghpvc/?username=707io&label=VISITORS&color=000000&style=for-the-badge" alt="707 Visitors" />
+  &nbsp;
+  <a href="https://github.com/707io">
+    <img src="https://img.shields.io/github/followers/707io?label=FOLLOWERS&style=for-the-badge&color=000000&logo=github&logoColor=white" alt="707 Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/707io?tab=repositories">
+    <img src="https://img.shields.io/github/stars/707io?label=STARS&style=for-the-badge&color=000000&logo=github&logoColor=white" alt="707 Stars" />
+  </a>
 </p>
+
 
 ---
 
@@ -59,7 +68,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=707io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/707io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=707io&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/707io">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=707io&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=707io&theme=react-dark&hide_border=true&area=true)
+  
 </p>
 <p align="center">
   <picture>
@@ -76,7 +94,15 @@
   <a href="mailto:707.gov@gmail.com">
     <img src="https://img.shields.io/badge/Email Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://discord.com/users/707io">
-    <img src="https://img.shields.io/badge/Discord-@707io-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-707io-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <sub> <strong>707</strong> © 2025
+</p>
+
