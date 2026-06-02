@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  <sub> <strong>707</strong> © 2025
+  <sub> <strong>707</strong> © 2026
 </p>
 
